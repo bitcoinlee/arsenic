@@ -6,7 +6,7 @@
 * Tasks: Apply g-estimation to cohort
 * Data in: smdat01.sas7bdat, smdat02.sas7bdat
 * Data out:
-* Description: 
+* Description:  
 **********************************************************************************************************************/
 *clear the log window and the output window;
 DM LOG 'clear;' CONTINUE; DM OUT 'clear;' CONTINUE; 
