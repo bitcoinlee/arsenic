@@ -1,0 +1,19 @@
+dictionary using "/Users/akeil/School/Outside Projects/CopperArsenic/Users/gillk/Desktop/Uranium Miners/datlib/TIMEEXP2.DAT"{
+		_column(96) int indvar		%3f
+		_column(1) 	double smid	 	%5f
+		_column(9) 	byte age  		%2f 
+		_column(11) double aslt  		%7.2g
+		_column(18) double asmd  		%7.2g
+		_column(25) double ashi  		%7.2g
+		_column(32) double asuk  		%7.2g
+		_column(39) double so2lt 		%7.2g
+		_column(46) double so2md 		%7.2g
+		_column(53) double so2hi 		%7.2g
+		_column(60) double so2uk 		%7.2g
+		_column(67) double empdur		%7.2g
+		_column(74) double cumas 		%9.2g
+		_column(83) double cumso2		%9.2g
+		_column(94) byte maxas		%2f 
+		_column(96) int maxso2		%3f
+}
+

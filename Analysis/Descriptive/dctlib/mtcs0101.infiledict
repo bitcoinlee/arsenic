@@ -1,0 +1,29 @@
+dictionary using "/Users/akeil/School/Outside Projects/CopperArsenic/Users/gillk/Desktop/Uranium Miners/datlib/TIMEEXP2.DAT"{
+	_lines(80)
+		_column(96) int indvar		%2f
+		_column(1) 	long smid	 	%5f
+		_column(8) 	long dob 		%8f
+		_column(8) 	int dob_yy 		%4f
+		_column(12) int dob_mm 		%4f
+		_column(14) int dob_dd 		%4f
+		_column(18) long hiredate 	%8f
+		_column(28) long term_raw 	%8f
+		_column(28)	int term_yy 	%4f
+		_column(32)	int term_mm 	%2f
+		_column(34)	int term_dd 	%2f
+		_column(38) long dlvs_raw 	%8f
+		_column(38) int dlvs_yy 	%4f
+		_column(42) int dlvs_mm 	%2f
+		_column(44) int dlvs_dd 	%2f
+		_column(48) long start_fu	%8f
+		_column(58) long dlo_raw 	%8f
+		_column(58) int dlo_yy 		%4f
+		_column(62) int dlo_mm 		%2f
+		_column(64) int dlo_dd 		%2f
+		_column(70) int icd3 		%3f
+		_column(73) int icdx 		%1f
+		_column(76) int vstat 		%1f
+		_column(88) int asex 		%1f
+		_column(91) int s02ex 		%1f
+}
+	
